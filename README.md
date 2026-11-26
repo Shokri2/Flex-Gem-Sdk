@@ -1,10 +1,10 @@
-# 💪 Flex Gem: Gym & Fitness Website
+# Flex Gem: Gym & Fitness Website
 
 A multi-page gym website with a full training library: workout pages for every muscle group, with exercise videos, sample weekly schedules, membership plans and a sign-up form.
 
 ![Flex Gem home page](docs/flex-gem-home.avif)
 
-### 🔗 [Live demo](https://shokri2.github.io/Flex-Gem-Sdk/)
+### [Live demo](https://shokri2.github.io/Flex-Gem-Sdk/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
